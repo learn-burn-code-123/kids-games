@@ -15,9 +15,6 @@ A tetris game to train kids' reflexes and pattern recognition.
 ### https://github.com/learn-burn-code-123/yummy-pizza-chinese-fun
 A pizza making game for kids to learn Chinese.
 
-### https://github.com/learn-burn-code-123/yummy-pizza-chinese-fun
-A pizza making game for kids to learn Chinese.
-
 ### https://github.com/learn-burn-code-123/speech-learning-app
 A friendly web application designed to help children with Down Syndrome learn speech through interactive picture cards, audio pronunciation, and positive reinforcement.
 
